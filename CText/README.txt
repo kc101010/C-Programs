@@ -1,10 +1,8 @@
 # CText
 A small text editor
 
-< 0.2 Changelog >
-- Fixed bug where the first line of files would be read twice
-- Implemented OPEN command 
-- Implemented HELP command (provides list of commands to user)
+< 0.3 Changelog >
+- Added CLEAR command & shorthand CLS
 
 <<< About: CText >>>
 
